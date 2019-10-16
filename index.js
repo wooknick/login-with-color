@@ -98,6 +98,7 @@ const clean = () => {
         document.getElementsByClassName("password")[i].classList.remove("target");
     });
     target = 0;
+    userColor = [];
     document.getElementsByClassName("password")[target].classList.add("target");
 };
 
