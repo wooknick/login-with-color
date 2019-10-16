@@ -93,7 +93,6 @@ const moveTarget = () => {
 };
 
 const clean = () => {
-    console.log(PASSWORD.split(""));
     PASSWORD.split("").map((t, i) => {
         document.getElementsByClassName("password")[i].innerHTML = `<p>${t}</p>`;
         document.getElementsByClassName("password")[i].classList.remove("target");
@@ -103,7 +102,6 @@ const clean = () => {
 };
 
 const checkCorrectPassword = () => {
-    console.log(target, PASSWORD.length);
     return target === PASSWORD.length;
 };
 
