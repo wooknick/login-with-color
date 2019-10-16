@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "jquery": "^3.4.1",
+    "parcel-bundler": "^1.12.4",
+    "typed.js": "^2.0.11",
+    "webpack": "^4.41.2"
+  }
+}
