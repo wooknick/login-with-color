@@ -1,9 +1,12 @@
-# login-with-color
+# Login with Color
+What if the login password consists of colors, not numbers or letters? 
 
----
+## Features
+- Playful interaction
+- Color the password
 
-LoginWithColor is Login Process with more playful interaction.
+## Technologies
+- javascript[es6+]
 
-### DEMO
-
-[try it!](https://wooknick.github.io/login-with-color/)
+## Live Demo
+[Try it yourself](https://wooknick.github.io/login-with-color/)
