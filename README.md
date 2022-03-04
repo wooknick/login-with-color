@@ -1,6 +1,8 @@
 # Login with Color
 What if the login password consists of colors, not numbers or letters? 
 
+![main](./image/main.gif)
+
 ## Features
 - Playful interaction
 - Color the password
